@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextAppearanceLight" parent="@style/TextAppearance">
+<!--        <item name="android:fontFamily">@font/</item>-->
+<!--        <item name="android:textColor">@color/text_color_dark</item>-->
+=        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="TextAppearance" parent="Widget.MaterialComponents.TextView">
+<!--        <item name="android:fontFamily">@font/be_vietnam_pro_regular</item>-->
+<!--        <item name="android:textColor">@color/text_color_dark</item>-->
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="BoldTextAppearance" parent="Widget.MaterialComponents.TextView">
+<!--        <item name="android:fontFamily">@font/be_vietnam_pro_bold</item>-->
+<!--        <item name="android:textColor">@color/text_color_dark</item>-->
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="MediumTextAppearance" parent="Widget.MaterialComponents.TextView">
+<!--        <item name="android:fontFamily">@font/be_vietnam_pro_medium</item>-->
+<!--        <item name="android:textColor">@color/text_color_dark</item>-->
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="SemiBoldTextAppearance" parent="Widget.MaterialComponents.TextView">
+<!--        <item name="android:fontFamily">@font/be_vietnam_pro_semi_bold</item>-->
+<!--        <item name="android:textColor">@color/text_color_dark</item>-->
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="ShapeAppearanceOverlay.App.CornerSize10Percent" parent="">
+        <item name="cornerSize">5%</item>
+    </style>
+
+
+</resources>

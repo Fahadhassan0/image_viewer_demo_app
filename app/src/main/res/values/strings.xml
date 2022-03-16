@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Image Viewer Assignment</string>
+
+    <string name="label_edit_text">Edit text</string>
+    <string name="label_edit">Edit</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="label_doc_viewer">Document viewer</string>
+
+    <string name="message_some_error_occurred">Some error has occurred</string>
+    <string name="message_text_empty">Text can\'t be empty</string>
+
+    <string name="content_description_add_text">Add text</string>
+    <string name="label_add_text">Add new text</string>
+    <string name="label_add">Add</string>
+
+
+</resources>

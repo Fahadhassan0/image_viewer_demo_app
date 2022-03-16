@@ -1,0 +1,25 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+plugins {
+    id 'com.android.application' version '7.1.2' apply false
+    id 'com.android.library' version '7.1.2' apply false
+    id 'org.jetbrains.kotlin.android' version '1.6.10' apply false
+}
+
+//TODO: App dependencies versions
+ext {
+    coroutinesVersion = '1.6.0-native-mt'
+    hiltVersion = '2.41'
+    glideVersion = '4.13.1'
+    gsonVersion = '2.9.0'
+    lifecycleVersion = '2.4.1'
+    navigationVersion = '2.4.1'
+    pagingVersion = '3.1.0'
+    roomVersion = '2.4.2'
+    retrofitVersion = '2.9.0'
+    okhttpLoggingVersion = '5.0.0-alpha.5'
+    gestureViewVersion = '2.8.3'
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

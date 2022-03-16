@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "439284548969",
+    "project_id": "tas-video-player",
+    "storage_bucket": "tas-video-player.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439284548969:android:32dad4f7815273827029f8",
+        "android_client_info": {
+          "package_name": "com.tas.video.player.full.hd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "439284548969-7khnm0bauhubq5g2apbjo62hhr419278.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkOnxT45aZJnOczOCnIn8YOQRZV8gUZ38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "439284548969-7khnm0bauhubq5g2apbjo62hhr419278.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
